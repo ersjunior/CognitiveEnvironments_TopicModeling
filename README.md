@@ -1,10 +1,5 @@
 ﻿# MBA FIAP Inteligência Artificial & Machine Learning
 ### Projeto de Conclusão: Topic Modeling
-![](https://img.shields.io/github/repo-size/michelpf/https://github.com/michelpf/fiap-ml-visao-computacional-detector-liveness)
-![](https://img.shields.io/github/issues/michelpf/https://github.com/michelpf/fiap-ml-visao-computacional-detector-liveness)
-![](https://img.shields.io/github/stars/michelpf/https://github.com/michelpf/fiap-ml-visao-computacional-detector-liveness)
-![](https://img.shields.io/github/watchers/michelpf/https://github.com/michelpf/fiap-ml-visao-computacional-detector-liveness)
-![](https://img.shields.io/github/last-commit/michelpf/https://github.com/michelpf/fiap-ml-visao-computacional-detector-liveness)
 
 ### Topic Modeling
 
